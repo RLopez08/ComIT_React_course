@@ -9,7 +9,7 @@
 
 I chose the MDN course because it is well written and has a clear progression. It also includes an embedded code editor in many lessons to help explore what we have just learnt.
 
-When I first set out to learn JavaScript, Eloquent JavaScript (the first edition) was recommeneded to me and I found it a great way to learn. It is now in its third edition and has proven to be a great resource for learners over the years.
+When I first set out to learn JavaScript, Eloquent JavaScript (the first edition) was recommended to me and I found it a great way to learn. It is now in its third edition and has proven to be a great resource for learners over the years.
 
 ## Goal
 
@@ -19,21 +19,36 @@ The goal is to learn the fundamentals of modern front end web development (with 
 2. JavaScript
 3. React
 
-We have will cover a lot – especially in the first four weeks. Don't worry if you find you don't understand everything fully. When we get to React this is where we will have an opportunity to build and re-inforce what we have learnt.
+We have will cover a lot – especially in the first four weeks. Don't worry if you find you don't understand everything fully. When we get to React this is where we will have an opportunity to build and reinforce what we have learnt.
 
 React is really just JavaScript, HTML, and CSS altogether.
 
-The first two parts of the course will use free online tools that will allow us to run code and complete exercises and assigments in our browsers. The idea is to get feedback and delight immediately without having to worry about setting up a whole bunch of tools on our laptops – we'll do that later.
+The first two parts of the course will use free online tools that will allow us to run code and complete exercises and assignments in our browsers. The idea is to get feedback and delight immediately without having to worry about setting up a whole bunch of tools on our laptops – we'll do that later.
 
-The assigments will be used to assess your progress in the course so I know whether to move on to next topic or continue to review the current one.
+The assignments will be used to assess your progress in the course, so I know whether to move on to next topic or continue to review the current one.
 
 The other goal we are going to accidentally learn is how to be curious and a self-directed learner.
 
 ## Expectations
 
-This course is setup much like a study group. You'll be expected to do the readings and attempt all the exercises and assignments. Don't worry if you are unable to complete an exercises or assigment. We can go through it together when we meet!
+This course is set up much like a study group. You'll be expected to do the readings and attempt all the exercises and assignments. Don't worry if you are unable to complete an exercises or assigment. We can go through it together when we meet!
 
 I'll be here to mentor and facilitate your learning, but it is up to you to go through the material.
+
+## Course deadlines
+
+| #   | Milestones                                                                                   | Due Date |
+|-----|----------------------------------------------------------------------------------------------|----------|
+| 1   | Send an email to the teacher or TA with project ideas (short paragraph describing the idea/s | 14-Jul   |
+| 2   | Submit at least 5 screen drafts of the project (draw only)                                   | 28-Jul   |
+| 3   | Check point 1 (project, idea, designing, html, css, bootstrap)                               | 11-Aug   |
+| 4   | Project created and available on github                                                      | 15-Aug   |
+| 5   | JS functionalities defined                                                                   | 22-Aug   |
+| 6   | Check point 2 (project with all JS functionalities implemented                               | 1-Sep    |
+| 7   | Database designed                                                                            | 8-Sep    |
+| 8   | Database created on Firebase and environment Prepared                                        | 15-Sep   |
+| 9   | Show at least 5 screens implemented ( it doesn't include Login page)                         | 26-Sep   |
+| 10  | Final Presentation                                                                           | 29-Sep   |
 
 ## Week 1
 
