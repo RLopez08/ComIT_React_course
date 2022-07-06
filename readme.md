@@ -37,18 +37,18 @@ I'll be here to mentor and facilitate your learning, but it is up to you to go t
 
 ## Course deadlines
 
-| #   | Milestones                                                                                   | Due Date |
-|-----|----------------------------------------------------------------------------------------------|----------|
-| 1   | Send an email to the teacher or TA with project ideas (short paragraph describing the idea/s | 14-Jul   |
-| 2   | Submit at least 5 screen drafts of the project (draw only)                                   | 28-Jul   |
-| 3   | Check point 1 (project, idea, designing, html, css, bootstrap)                               | 11-Aug   |
-| 4   | Project created and available on github                                                      | 15-Aug   |
-| 5   | JS functionalities defined                                                                   | 22-Aug   |
-| 6   | Check point 2 (project with all JS functionalities implemented                               | 1-Sep    |
-| 7   | Database designed                                                                            | 8-Sep    |
-| 8   | Database created on Firebase and environment Prepared                                        | 15-Sep   |
-| 9   | Show at least 5 screens implemented ( it doesn't include Login page)                         | 26-Sep   |
-| 10  | Final Presentation                                                                           | 29-Sep   |
+| #   | Milestones                                                                                    | Due Date |
+|-----|-----------------------------------------------------------------------------------------------|----------|
+| 1   | Send an email to the teacher or TA with project ideas (short paragraph describing the idea/s) | 14-Jul   |
+| 2   | Submit at least 5 screen drafts of the project (draw only)                                    | 28-Jul   |
+| 3   | Check point 1 (project, idea, designing, html, css, bootstrap)                                | 11-Aug   |
+| 4   | Project created and available on github                                                       | 15-Aug   |
+| 5   | JS functionalities defined                                                                    | 22-Aug   |
+| 6   | Check point 2 (project with all JS functionalities implemented)                               | 1-Sep    |
+| 7   | Database designed                                                                             | 8-Sep    |
+| 8   | Database created on Firebase and environment Prepared                                         | 15-Sep   |
+| 9   | Show at least 5 screens implemented ( it doesn't include Login page)                          | 26-Sep   |
+| 10  | Final Presentation                                                                            | 29-Sep   |
 
 ## Week 1
 
@@ -78,3 +78,29 @@ I'll be here to mentor and facilitate your learning, but it is up to you to go t
 1. [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter). You can use [this CodeSandbox template](https://codesandbox.io/s/marking-up-a-letter-oijup) to get started.
 
 2. [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content). You can use [this CodeSandbox template](https://codesandbox.io/s/structuring-a-page-of-content-5uuo6) to get started.
+
+## Week 2
+
+### HTML Tables and Forms
+
+#### Prerequisites
+
+_Same as Week 1!_
+
+#### Readings
+
+1. [HTML tables overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
+2. [HTML tables basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+3. [HTML table advanced features](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced) (optional)
+4. [Your first form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+5. [How to structure a web form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+6. [Basic form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls)
+7. [More input types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
+8. [Even more form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Other_form_controls)
+
+#### Assignments
+
+Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8id74) to complete the following assignments:
+
+1. [Structuring planet data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)
+2. [Build a form](01-week/exercises/../../02-week/exercises/forms.md)
