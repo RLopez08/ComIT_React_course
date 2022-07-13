@@ -50,6 +50,16 @@ I'll be here to mentor and facilitate your learning, but it is up to you to go t
 | 9   | Show at least 5 screens implemented ( it doesn't include Login page)                          | 26-Sep   |
 | 10  | Final Presentation                                                                            | 29-Sep   |
 
+## Extra content
+
+### Exercises
+
+The following 2 links provide you with more exercises that are optional. The exercises are divided by topics so you can
+easily focus on the material that you want to work on.
+
+1. [W3schools - Good to practice your syntax knowledge](https://www.w3schools.com/html/html_exercises.asp)
+2. [W3resources - Provides built-in sandbox to text code](https://www.w3resource.com/html-css-exercise/index.php)
+
 ## Week 1
 
 ### Introduction to HTML
