@@ -122,6 +122,7 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 #### Prerequisites
 
 1. [Download and install GitHub Desktop](https://desktop.github.com)
+   1. Log into your GitHub account after installing the application
 2. [Download and install Visual Studio Code](https://code.visualstudio.com/download)
 
 #### Readings
