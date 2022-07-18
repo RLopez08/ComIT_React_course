@@ -114,3 +114,35 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 
 1. [Structuring planet data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)
 2. [Build a form](01-week/exercises/../../02-week/exercises/forms.md)
+
+## Week 3
+
+### More than an introduction to CSS
+
+#### Prerequisites
+
+1. [Download and install GitHub Desktop](https://desktop.github.com)
+2. [Download and install Visual Studio Code](https://code.visualstudio.com/download)
+
+#### Readings
+
+1. [What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+2. [Getting started](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
+3. [How is CSS structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
+4. [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)<br>
+**At this point you are ready for the first assigment.**
+5. [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+6. [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
+   - **Important** [Type, class, and ID selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)
+7. [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+8. [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)
+9. [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+10. [Sizing items](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+11. [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+12. [Styling lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
+13. [Styling links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
+
+#### Assignments
+
+1. [Style a biography](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Using_your_new_knowledge). _Fork [this template](https://codesandbox.io/s/css-assignment-1-gcvg9) and complete the assigment._
+2. [Typesetting a community school homepage](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage). Fork [this template](https://codesandbox.io/s/css-assignment-2-x8si9) and complete the assigment.
