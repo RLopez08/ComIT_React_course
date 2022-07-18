@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create User</title>
+</head>
+<body>
+<h1>Create User</h1>
+<hr>
+
+<form action="create-user.html" method="get">
+    <section>
+        <label for="email">
+            Email:
+            <input type="email" id="email" name="email" placeholder="email" required>
+        </label>
+        <br>
+        <label for="username">
+            Username:
+            <input type="text" id="username" name="username" size="30" maxlength="12" placeholder="username">
+        </label>
+        <br>
+        <label for="password">
+            Password:
+            <input type="password" id="password" name="password" size="30" maxlength="8" placeholder="password"
+                   required>
+        </label>
+        <br>
+        <label for="bio">Biography:</label>
+        <br>
+        <textarea id="bio" name="bio" placeholder="Give a brief description of this user"></textarea>
+    </section>
+    <br>
+    <section>
+        <fieldset>
+            <legend>Interests</legend>
+            <label>Select your favourite superhero</label>
+            <label for="superman">
+                <input type="radio" id="superman" name="superhero" value="superman">
+                Superman
+            </label>
+            <label for="batman">
+                <input type="radio" id="batman" name="superhero" value="batman">
+                Batman
+            </label>
+            <label for="wonder-woman">
+                <input type="radio" id="wonder-woman" name="superhero" value="wonder-woman" checked>
+                Wonder Woman
+            </label>
+            <label for="flash">
+                <input type="radio" id="flash" name="superhero" value="flash">
+                Flash
+            </label>
+            <label for="thor">
+                <input type="radio" id="thor" name="superhero" value="thor">
+                Thor
+            </label>
+            <label for="hulk">
+                <input type="radio" id="hulk" name="superhero" value="hulk">
+                Hulk
+            </label>
+            <br>
+            <label>Select your favourite video game</label>
+            <label for="fifa">
+                <input type="checkbox" id="fifa" name="video-game" value="fifa" checked>
+                Fifa
+            </label>
+            <label for="nhl">
+                <input type="checkbox" id="nhl" name="video-game" value="nhl">
+                NHL
+            </label>
+            <label for="resident-evil">
+                <input type="checkbox" id="resident-evil" name="video-game" value="resident-evil">
+                Resident Evil
+            </label>
+            <label for="uncharted">
+                <input type="checkbox" id="uncharted" name="video-game" value="uncharted" checked>
+                Uncharted
+            </label>
+        </fieldset>
+        <input type="hidden" name="userid" value="2300">
+        <br>
+    </section>
+    <section>
+        <button type="submit">Create User</button>
+    </section>
+</form>
+</body>
+</html>
