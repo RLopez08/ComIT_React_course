@@ -147,3 +147,63 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 
 1. [Style a biography](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Using_your_new_knowledge). _Fork [this template](https://codesandbox.io/s/css-assignment-1-gcvg9) and complete the assigment._
 2. [Typesetting a community school homepage](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage). Fork [this template](https://codesandbox.io/s/css-assignment-2-x8si9) and complete the assigment.
+
+## Week 4
+
+### CSS layout and an introduction to JavaScript
+
+#### Prerequisites
+
+1. Create an account on [JSBin](https://jsbin.com/)
+
+#### Readings
+
+1. [Intro to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+2. [Normal flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+3. [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+4. [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+5. [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+
+**You are ready for the first assigment!**
+
+1. [Chapter 1](https://eloquentjavascript.net/01_values.html) of Eloquent Javascript
+2. [Chapter 2](https://eloquentjavascript.net/02_program_structure.html)
+
+#### Exercises
+
+> Use this [JSBin](https://jsbin.com/yobupun/1/edit?js,console) to complete the exercises
+
+1. [Chapter 2 exercises](https://eloquentjavascript.net/02_program_structure.html#h_TcUD2vzyMe)
+   1. Looping a triangle
+   2. FizzBuzz
+   3. Chessboard
+
+#### Assignments
+
+1. [Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Fundamental_Layout_Comprehension). Fork [this template](https://codesandbox.io/s/css-assignment-layout-bycq4) and complete the assignment.
+
+---
+
+## Week 5
+
+### JS functions, data structures, and higher order functions
+
+#### Readings
+
+1. [Chapter 3](https://eloquentjavascript.net/03_functions.html)
+2. [Chapter 4](https://eloquentjavascript.net/04_data.html)
+3. [Chapter 5](https://eloquentjavascript.net/05_higher_order.html)
+4. [Chapter 6](https://eloquentjavascript.net/06_object.html)
+
+#### Exercises
+
+> Use this [JSBin](https://jsbin.com/yobupun/1/edit?js,console) to complete the exercises
+
+1. [Chapter 3 exercises](https://eloquentjavascript.net/03_functions.html#h_TcUD2vzyMe)
+2. [Chapter 4 exercises](https://eloquentjavascript.net/04_data.html#h_TcUD2vzyMe)
+3. [Chapter 5 exercises](https://eloquentjavascript.net/05_higher_order.html#h_TcUD2vzyMe)
+4. [Chapter 6 exercises](https://eloquentjavascript.net/06_object.html#h_TcUD2vzyMe)
+
+#### Assignments
+
+1. [Build a robot](https://eloquentjavascript.net/07_robot.html)
