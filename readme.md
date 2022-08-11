@@ -207,3 +207,23 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 #### Assignments
 
 1. [Build a robot](https://eloquentjavascript.net/07_robot.html)
+
+---
+
+## Week 6
+
+#### Tasks
+
+1. Finish working through our [Build a robot](https://eloquentjavascript.net/07_robot.html)
+2. Probably catch up!
+
+---
+
+## Week 7
+
+### Learning Git, Github, and Soft Skills
+
+- [Git & Github](07-week/git.md)
+- Set up local development environments
+  - Install [Node](https://nodejs.org/en/) (download the most recommended version)
+- Continue building a robot and development environment setup
