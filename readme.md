@@ -227,3 +227,13 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 - Set up local development environments
   - Install [Node](https://nodejs.org/en/) (download the most recommended version)
 - Continue building a robot and development environment setup
+
+---
+
+## Week 8
+
+### Beginning with React
+
+#### Tasks
+
+1. Mob program [Intro to React](https://reactjs.org/tutorial/tutorial.html)
