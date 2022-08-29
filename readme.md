@@ -237,3 +237,17 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 #### Tasks
 
 1. Mob program [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
+---
+
+## Week 9
+
+### React Router
+
+[Overview](https://reactrouter.com/en/v6.3.0/getting-started/overview)
+
+[Tutorial](https://reactrouter.com/en/v6.3.0/getting-started/tutorial)
+
+### Database design
+
+[Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
