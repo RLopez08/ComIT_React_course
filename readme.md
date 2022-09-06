@@ -251,3 +251,14 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 ### Database design
 
 [Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
+
+---
+
+## Week 10
+
+### React + Firebase
+
+1. [Firebase Tutorial](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial)
+2. [Final code](https://github.com/ruaraya/react-firebase-authentication)
+
+- Saving data using a serverless solution
