@@ -256,6 +256,14 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 
 ## Week 10
 
+1. [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+2. [From React to NextJs](https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs)
+   - For this one, focused on the HTML conversion to React, not the NextJs aspect.
+
+---
+
+## Week 11
+
 ### React + Firebase
 
 1. [Firebase Tutorial](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial)
